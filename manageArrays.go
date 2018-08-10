@@ -1,3 +1,6 @@
+// Sniperkit - 2018
+// Status: Analyzed
+
 /*
 Copyright 2015 German Ramos. All rights reserved.
 Licensed under the Apache License, Version 2.0 (the "License");
